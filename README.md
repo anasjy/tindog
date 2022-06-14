@@ -1,2 +1,2 @@
 # tindog
-this is the site link [**click here**](glittery-banoffee-098ec2.netlify.app)
+this is the site link [**click here**](https://glittery-banoffee-098ec2.netlify.app)
